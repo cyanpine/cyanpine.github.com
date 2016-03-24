@@ -119,6 +119,9 @@ hr {
   font-size: 14px;
 }
 
+section{
+	height:auto;
+}
 
 .introduction{
   padding: 0 10%;
