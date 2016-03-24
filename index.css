@@ -219,6 +219,9 @@ section{
  text-align: center;
 }
 
+.items{
+	height:102.5px;
+}
 .item{
   margin: 20px 0;
   font-weight: 100;
